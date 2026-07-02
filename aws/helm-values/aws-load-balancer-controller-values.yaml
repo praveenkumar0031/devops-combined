@@ -1,0 +1,9 @@
+clusterName: devops-secrets
+
+region: us-east-1
+
+vpcId: vpc-04abea77b1465c4ea
+
+serviceAccount:
+  create: false
+  name: aws-load-balancer-controller
